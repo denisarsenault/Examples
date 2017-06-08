@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:AwesomeGrid/AwesomeGrid.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AwesomeGrid/../CocoaTableView/CocoaTableView.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CommandLine/CommandLine.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Constraints/Constraints.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ControllerBindings/ControllerBindings.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DataDetectors/DataDetectors.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:EventKit/EventKit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:HelloCocoa/HelloCocoa.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:iCloudMac/iCloudMac.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:iOSDocuments/iOSDocuments.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:iOSSharing/iOSSharing.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:iOSTableView/iOSTableView.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:iTunesDetector/iTunesDetector.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Localised/Localised.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Locations/Locations.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MemoryDemo/MemoryDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Motion/Motion.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Networking/Networking.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OSXDocuments/OSXDocuments.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OSXSharing/OSXSharing.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Photos/Photos.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PreferencePane/PreferencePane.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PrintingiOS/PrintingiOS.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PrintingOSX/PrintingOSX.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Sandboxing/Sandboxing.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SimpleBindings/SimpleBindings.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:StatusItem/StatusItem.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:VideoPlayer/VideoPlayer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TodaysDate/TodaysDate.xcodeproj">
+   </FileRef>
+</Workspace>
