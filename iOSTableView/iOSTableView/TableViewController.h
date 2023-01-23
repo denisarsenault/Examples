@@ -2,8 +2,8 @@
 //  TableViewController.h
 //  iOSTableView
 //
-//  Created by Jon Manning on 7/10/12.
-//  Copyright (c) 2012 Secret Lab. All rights reserved.
+//  Created by Denis Arsenault on 7/10/12.
+//  Copyright (c) 2023 Securemac. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

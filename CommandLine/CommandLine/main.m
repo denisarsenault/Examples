@@ -2,8 +2,8 @@
 //  main.m
 //  CommandLine
 //
-//  Created by Jon Manning on 2/04/12.
-//  Copyright (c) 2012 Secret Lab. All rights reserved.
+//  Created by Denis Arsenault on 2/04/12.
+//  Copyright (c) 2023 Securemac. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

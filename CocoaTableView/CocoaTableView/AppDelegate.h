@@ -2,16 +2,26 @@
 //  AppDelegate.h
 //  CocoaTableView
 //
-//  Created by Jon Manning on 16/09/12.
-//  Copyright (c) 2012 Secret Lab. All rights reserved.
+//  Created by Denis Arsenault on 01/7/23.
+//  Copyright (c) 2023 Securemac. All rights reserved.
 //
 
 #import <Cocoa/Cocoa.h>
 
-@interface AppDelegate : NSObject <NSApplicationDelegate>
+@interface AppDelegate : NSObject <NSApplicationDelegate, NSTableViewDataSource, NSTableViewDelegate>
 
-@property (assign) IBOutlet NSWindow *window;
-@property (strong) NSMutableArray* songs;
-@property (weak) IBOutlet NSArrayController *songsController;
+
+@property (weak) IBOutlet NSWindow *window;
+@property (weak) IBOutlet NSTableView *tableView;
+
+@property (weak) IBOutlet NSArrayController *pathsController;
+@property (weak) IBOutlet NSButton *requiredText;
+
+- (IBAction)enable:(id)sender;
+- (IBAction)required:(id)sender;
+
+- (IBAction)enableAll;
+- (IBAction)cancel;
+
 
 @end

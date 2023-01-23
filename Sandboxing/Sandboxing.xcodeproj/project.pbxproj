@@ -132,12 +132,18 @@
 			attributes = {
 				LastUpgradeCheck = 0440;
 				ORGANIZATIONNAME = "Secret Lab";
+				TargetAttributes = {
+					68C4C20915B7989C00D6B1E6 = {
+						DevelopmentTeam = 76W2LW5UNP;
+					};
+				};
 			};
 			buildConfigurationList = 68C4C20415B7989C00D6B1E6 /* Build configuration list for PBXProject "Sandboxing" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 68C4C1FF15B7989C00D6B1E6;
@@ -225,7 +231,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
 			};
@@ -247,7 +253,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				SDKROOT = macosx;
 			};
 			name = Release;
@@ -258,9 +264,11 @@
 				CODE_SIGN_ENTITLEMENTS = Sandboxing/Sandboxing.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 76W2LW5UNP;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Sandboxing/Sandboxing-Prefix.pch";
 				INFOPLIST_FILE = "Sandboxing/Sandboxing-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = com.securemac.Sandboxing;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -272,9 +280,11 @@
 				CODE_SIGN_ENTITLEMENTS = Sandboxing/Sandboxing.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 76W2LW5UNP;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Sandboxing/Sandboxing-Prefix.pch";
 				INFOPLIST_FILE = "Sandboxing/Sandboxing-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = com.securemac.Sandboxing;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};

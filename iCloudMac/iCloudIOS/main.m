@@ -2,8 +2,8 @@
 //  main.m
 //  iCloudIOS
 //
-//  Created by Jon Manning on 10/05/12.
-//  Copyright (c) 2012 Secret Lab. All rights reserved.
+//  Created by Denis Arsenault on 10/05/12.
+//  Copyright (c) 2023 Securemac. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

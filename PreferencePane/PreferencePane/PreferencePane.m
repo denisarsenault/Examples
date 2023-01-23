@@ -2,8 +2,8 @@
 //  PreferencePane.m
 //  PreferencePane
 //
-//  Created by Jon Manning on 4/04/12.
-//  Copyright (c) 2012 Secret Lab. All rights reserved.
+//  Created by Denis Arsenault on 4/04/12.
+//  Copyright (c) 2023 Securemac. All rights reserved.
 //
 
 #import "PreferencePane.h"

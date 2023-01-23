@@ -2,8 +2,8 @@
 //  AppDelegate.h
 //  Networking
 //
-//  Created by Jon Manning on 30/03/12.
-//  Copyright (c) 2012 Secret Lab. All rights reserved.
+//  Created by Denis Arsenault on 30/03/12.
+//  Copyright (c) 2023 Securemac. All rights reserved.
 //
 
 #import <Cocoa/Cocoa.h>

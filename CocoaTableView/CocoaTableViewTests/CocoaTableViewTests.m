@@ -2,8 +2,8 @@
 //  CocoaTableViewTests.m
 //  CocoaTableViewTests
 //
-//  Created by Jon Manning on 16/09/12.
-//  Copyright (c) 2012 Secret Lab. All rights reserved.
+//  Created by Denis Arsenault on 01/7/23.
+//  Copyright (c) 2023 Securemac. All rights reserved.
 //
 
 #import "CocoaTableViewTests.h"

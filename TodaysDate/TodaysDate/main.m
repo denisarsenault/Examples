@@ -2,8 +2,8 @@
 //  main.m
 //  TodaysDate
 //
-//  Created by Jon Manning on 7/04/12.
-//  Copyright (c) 2012 Secret Lab. All rights reserved.
+//  Created by Denis Arsenault on 7/04/12.
+//  Copyright (c) 2023 Securemac. All rights reserved.
 //
 
 #import <Cocoa/Cocoa.h>

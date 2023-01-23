@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  ControllerBindings
 //
-//  Created by Jon Manning on 28/04/12.
-//  Copyright (c) 2012 Secret Lab. All rights reserved.
+//  Created by Denis Arsenault on 28/04/12.
+//  Copyright (c) 2023 Securemac. All rights reserved.
 //
 
 #import "AppDelegate.h"

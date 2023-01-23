@@ -2,8 +2,8 @@
 //  MasterViewController.m
 //  iOSDocuments
 //
-//  Created by Jon Manning on 26/02/12.
-//  Copyright (c) 2012 Secret Lab. All rights reserved.
+//  Created by Denis Arsenault on 26/02/12.
+//  Copyright (c) 2023 Securemac. All rights reserved.
 //
 
 #import "MasterViewController.h"

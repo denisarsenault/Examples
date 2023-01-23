@@ -141,7 +141,7 @@
 		689C06F3152C107A00BBC40B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0430;
+				LastUpgradeCheck = 1400;
 				ORGANIZATIONNAME = "Secret Lab";
 			};
 			buildConfigurationList = 689C06F6152C107A00BBC40B /* Build configuration list for PBXProject "PreferencePane" */;
@@ -149,6 +149,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 689C06F1152C107A00BBC40B;
@@ -305,6 +306,7 @@
 				689C071C152C107A00BBC40B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

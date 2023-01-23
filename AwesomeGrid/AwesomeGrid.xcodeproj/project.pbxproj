@@ -212,12 +212,18 @@
 			attributes = {
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = "Secret Lab";
+				TargetAttributes = {
+					68C4A0B8162164F800FD6DFF = {
+						ProvisioningStyle = Manual;
+					};
+				};
 			};
 			buildConfigurationList = 68C4A0B3162164F800FD6DFF /* Build configuration list for PBXProject "AwesomeGrid" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 68C4A0AE162164F800FD6DFF;
@@ -382,10 +388,13 @@
 		68C4A0F3162164F800FD6DFF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AwesomeGrid/AwesomeGrid-Prefix.pch";
 				INFOPLIST_FILE = "AwesomeGrid/AwesomeGrid-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -393,10 +402,13 @@
 		68C4A0F4162164F800FD6DFF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AwesomeGrid/AwesomeGrid-Prefix.pch";
 				INFOPLIST_FILE = "AwesomeGrid/AwesomeGrid-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
